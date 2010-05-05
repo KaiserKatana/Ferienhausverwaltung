@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=DBkunde()
+comment0.text=Creates\ a\ new\ instance\ of\ DBkunde\ \n
+comment1.params=nachname\ vorname\ strasse\ plz\ ort\ geburtsdatum\ telefon
+comment1.target=int\ Speichern(String,\ String,\ String,\ String,\ String,\ String,\ String)
+comment2.params=kNr\ nachname\ vorname\ gDatum\ strasse\ plz\ ort\ telNr
+comment2.target=void\ update(int,\ String,\ String,\ String,\ String,\ String,\ String,\ String)
+comment3.params=kNr
+comment3.target=int\ loesche(int)
+comment4.target=int\ getMaxKundenNr()
+comment5.params=name
+comment5.target=KundenVerwaltung\ SuchenName(String)
+comment6.params=knr
+comment6.target=KundenVerwaltung\ SuchenKnr(int)
+comment7.params=datenmenge
+comment7.target=Kunde\ Convertieren(ResultSet)
+numComments=8

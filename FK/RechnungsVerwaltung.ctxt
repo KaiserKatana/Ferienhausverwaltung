@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=RechnungsVerwaltung()
+comment0.text=Creates\ a\ new\ instance\ of\ RechnungsVerwaltung\ \n
+comment1.params=rNr\ isOffen\ endabanhme
+comment1.target=void\ update(int,\ boolean,\ boolean)
+comment2.params=eineRechnung
+comment2.target=void\ addRechnung(Rechnung)
+comment3.target=LinkedList\ getRechnungen()
+comment4.params=value
+comment4.target=LinkedList\ SuchenKnr(int)
+comment5.params=value
+comment5.target=LinkedList\ SuchenRechnung(int)
+comment6.params=value
+comment6.target=LinkedList\ SuchenReservierung(int)
+comment7.target=LinkedList\ SuchenOffen()
+comment8.target=LinkedList\ SuchenEndabnahme()
+comment9.target=LinkedList\ sucheRechnungsdatum()
+numComments=10

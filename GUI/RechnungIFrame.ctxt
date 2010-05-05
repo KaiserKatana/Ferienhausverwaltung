@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=RechnungIFrame()
+comment0.text=Creates\ new\ form\ MitarbeiterIFrame\ \n
+comment1.target=void\ initComponents()
+comment1.text=This\ method\ is\ called\ from\ within\ the\ constructor\ to\ninitialize\ the\ form.\nWARNING\:\ Do\ NOT\ modify\ this\ code.\ The\ content\ of\ this\ method\ is\nalways\ regenerated\ by\ the\ Form\ Editor.\n\n
+comment2.params=evt
+comment2.target=void\ bearbeitenBTNActionPerformed(java.awt.event.ActionEvent)
+comment3.params=evt
+comment3.target=void\ rechnungTBLPropertyChange(java.beans.PropertyChangeEvent)
+comment4.params=evt
+comment4.target=void\ suchenBTNActionPerformed(java.awt.event.ActionEvent)
+comment5.params=evt
+comment5.target=void\ ausblendenBTNActionPerformed(java.awt.event.ActionEvent)
+comment6.params=value
+comment6.target=void\ setBegriff(String)
+comment7.params=gruppe
+comment7.target=void\ setGruppe(int)
+comment8.target=void\ suchen()
+numComments=9

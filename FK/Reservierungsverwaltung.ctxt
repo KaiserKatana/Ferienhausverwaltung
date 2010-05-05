@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.params=eineReservierung
+comment0.target=void\ addReservierung(Reservierung)
+comment1.target=LinkedList\ getReservierungen()
+comment10.target=LinkedList\ sucheRechnungsNr2()
+comment11.params=rNr
+comment11.target=int\ loeschen(int)
+comment2.params=value
+comment2.target=LinkedList\ sucheKunde(int)
+comment3.params=value
+comment3.target=LinkedList\ sucheReservierung(int)
+comment4.params=value
+comment4.target=LinkedList\ sucheMietobjekt(int)
+comment5.params=value
+comment5.target=LinkedList\ sucheRechnung(int)
+comment6.params=kundeNr
+comment6.target=Reservierung\ suchenResNR(int)
+comment7.target=Reservierungsverwaltung()
+comment8.target=LinkedList\ sucheEndDatumAktuell()
+comment9.target=LinkedList\ sucheRechnungsNr1()
+numComments=12

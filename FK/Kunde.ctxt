@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=kundenNR
+comment0.target=void\ setKundenNR(int)
+comment1.params=zahlungsdaten
+comment1.target=void\ setZahlungsdaten(String)
+comment2.target=int\ getKundenNR()
+comment3.target=String\ getZahlungsdaten()
+comment4.target=Kunde()
+comment4.text=Creates\ a\ new\ instance\ of\ Kunde\ \n
+comment5.params=nachname\ vorname\ geburtsdatum\ strasse\ plz\ ort\ telefon
+comment5.target=Kunde(String,\ String,\ String,\ String,\ String,\ String,\ String)
+comment6.target=int\ Speichern()
+numComments=7

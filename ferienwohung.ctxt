@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=ferienwohung()
+comment0.text=Creates\ a\ new\ instance\ of\ ferienwohung\ \n
+comment1.params=args
+comment1.target=void\ main(String[])
+comment1.text=\n@param\ args\ the\ command\ line\ arguments\n\n
+numComments=2

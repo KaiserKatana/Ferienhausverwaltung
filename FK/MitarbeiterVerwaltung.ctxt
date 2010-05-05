@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=MitarbeiterVerwaltung()
+comment0.text=Creates\ a\ new\ instance\ of\ MitarbeiterVerwaltung\ \n
+comment1.params=einMitarbeiter
+comment1.target=void\ addMitarbeiter(Mitarbeiter)
+comment2.target=LinkedList\ getMitarbeiter()
+comment3.params=value
+comment3.target=LinkedList\ SuchenPnr(int)
+comment4.params=value
+comment4.target=LinkedList\ SuchenName(String)
+comment5.params=pNr\ nachname\ vorname\ gDatum\ strasse\ plz\ ort\ telNr\ taetig
+comment5.target=void\ update(int,\ String,\ String,\ String,\ String,\ String,\ String,\ String,\ boolean)
+comment6.params=mNr
+comment6.target=int\ loeschen(int)
+numComments=7

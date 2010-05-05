@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=ReservierungenIFrame()
+comment0.text=Creates\ new\ form\ ReservierungenIFrame\ \n
+comment1.params=aufrufer
+comment1.target=ReservierungenIFrame(startGUI)
+comment10.params=gruppe
+comment10.target=void\ setGruppe(int)
+comment11.target=void\ suchen()
+comment2.target=void\ initComponents()
+comment2.text=This\ method\ is\ called\ from\ within\ the\ constructor\ to\ninitialize\ the\ form.\nWARNING\:\ Do\ NOT\ modify\ this\ code.\ The\ content\ of\ this\ method\ is\nalways\ regenerated\ by\ the\ Form\ Editor.\n\n
+comment3.params=evt
+comment3.target=void\ rechnungBTNActionPerformed(java.awt.event.ActionEvent)
+comment4.params=evt
+comment4.target=void\ loeschenBTNActionPerformed(java.awt.event.ActionEvent)
+comment5.params=evt
+comment5.target=void\ suchenBTNActionPerformed(java.awt.event.ActionEvent)
+comment6.params=evt
+comment6.target=void\ kundeBTNActionPerformed(java.awt.event.ActionEvent)
+comment7.params=evt
+comment7.target=void\ mietobjektBTNActionPerformed(java.awt.event.ActionEvent)
+comment8.params=evt
+comment8.target=void\ ausblendenBTNActionPerformed(java.awt.event.ActionEvent)
+comment9.params=value
+comment9.target=void\ setBegriff(String)
+numComments=12

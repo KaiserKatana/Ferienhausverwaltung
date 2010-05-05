@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=personalNR
+comment0.target=void\ setPersonalNR(int)
+comment1.params=isTaetig
+comment1.target=void\ setIsTaetig(boolean)
+comment2.target=int\ getPersonalNR()
+comment3.target=boolean\ getIsTaetig()
+comment4.target=Mitarbeiter()
+comment4.text=Creates\ a\ new\ instance\ of\ Mitarbeiter\ \n
+comment5.params=nachname\ vorname\ geburtsdatum\ strasse\ plz\ ort\ telefon
+comment5.target=Mitarbeiter(String,\ String,\ String,\ String,\ String,\ String,\ String)
+comment6.target=int\ Speichern()
+numComments=7

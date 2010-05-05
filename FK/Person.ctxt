@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.params=gdatum
+comment0.target=void\ setGDate(String)
+comment1.params=vorname
+comment1.target=void\ setVorname(String)
+comment10.target=String\ getStrasse()
+comment11.target=String\ getPLZ()
+comment12.target=String\ getOrt()
+comment13.target=String\ getTelefonNr()
+comment14.target=Person()
+comment14.text=Creates\ a\ new\ instance\ of\ Person\ \n
+comment2.params=nachname
+comment2.target=void\ setNachname(String)
+comment3.params=strasse
+comment3.target=void\ setStrasse(String)
+comment4.params=plz
+comment4.target=void\ setPLZ(String)
+comment5.params=ort
+comment5.target=void\ setOrt(String)
+comment6.params=nr
+comment6.target=void\ setTelefonNR(String)
+comment7.target=String\ getGDate()
+comment8.target=String\ getVorname()
+comment9.target=String\ getNachname()
+numComments=15

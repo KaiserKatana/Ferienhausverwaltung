@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=parent\ modal\ knr
+comment0.target=ReservierungErfassenDIA(java.awt.Frame,\ boolean,\ String)
+comment0.text=Creates\ new\ form\ ReservierungErfassenDIA\ \n
+comment1.target=void\ initComponents()
+comment1.text=This\ method\ is\ called\ from\ within\ the\ constructor\ to\ninitialize\ the\ form.\nWARNING\:\ Do\ NOT\ modify\ this\ code.\ The\ content\ of\ this\ method\ is\nalways\ regenerated\ by\ the\ Form\ Editor.\n\n
+comment2.params=evt
+comment2.target=void\ okBTNActionPerformed(java.awt.event.ActionEvent)
+comment3.params=evt
+comment3.target=void\ abbrechenBTNActionPerformed(java.awt.event.ActionEvent)
+comment4.params=knr
+comment4.target=void\ setKnr(String)
+numComments=5
